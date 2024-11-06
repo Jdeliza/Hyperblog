@@ -21,7 +21,14 @@ body h1 {
     background-color: rgb(46, 73, 184);
     color: white;
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
-    font-size: 35px; }
+    font-size: 35px;
+     
+}
 #header span {
     margin-left: 20px;
+}
+#logo {
+    width: 48px;
+    height: 30px;
+    margin: 10px;
 }
