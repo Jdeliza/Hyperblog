@@ -31,8 +31,9 @@ body h1 {
     margin-left: 20px;
 }
 #logo {
-    width: 48px;
-    height: 30px;
+    border-radius: 10px;
+    width: 54px;
+    height: 36px;
     margin: 10px 20px 10px 10px;
 }
 #footer {
